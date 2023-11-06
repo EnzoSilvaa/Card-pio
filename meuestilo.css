@@ -1,0 +1,335 @@
+TABLE
+{
+
+    width: 1200px;
+    height: 1360px;
+
+}
+
+.LATERAL
+
+{
+    background-image: url("img/lateral.jpg");
+    height: 1360px;
+    width: 70px;
+    
+}
+
+.VAZIO1
+
+{
+    width: 50px;
+    height: 1360px;
+}
+
+.VAZIO2
+
+{
+    width: 160px;
+    height: 1360px;
+}
+
+.FUNDO
+
+{
+    background-image: url("img/fundo-papel.jpg");
+    width: 1200px;
+    height: 1360px;
+}
+
+.TITULO
+
+{
+    text-align: center;
+    width: 960px;
+    height: 135px;
+    font-family: cursive;
+    font-size: 50;
+    color: white;
+    word-spacing: 10px;
+    text-shadow: 1px 1px black;
+}
+
+ .KANAZAKI
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #EB268F;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 85%;
+}
+
+.i
+
+{
+    width: 400px;
+    height: 75px;
+    text-align: center;
+}
+
+.BONA
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #CE8F64;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 125%;
+}
+
+.CACTUS
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FFCC2A;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.WM
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #0098DB;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.JO
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #00A85B;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 140%;
+}
+
+.MAFALDA
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #EB268F;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 134%;
+}
+
+.SUNSHINE
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #CE8F64;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 135%;
+}
+
+.MANERO
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #00A85B;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 135%;
+}
+
+.MAGESTIC
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #0098DB;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.MINEIRAS
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FFCC2A;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.FLORIDA
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #EB268F;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.GRILLO
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #00A85B;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.POINT
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FFCC2A;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.BISTRO
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #CE8F64;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+#RESTAURANTE
+
+{
+    font-family: Arial;
+    font-size: 20;
+    color: white;
+}
+
+#COMIDA1
+
+{
+    font-family: Arial;
+    font-size: 32;
+    color: white;
+}
+
+#C2
+
+{
+    font-family: Arial;
+    font-size: 32;
+    color: #FFFE37;
+}
+
+#NEGRITO
+
+{
+    font-family: Arial;
+    font-size: 16;
+    font-weight: bold;
+}
+
+p
+
+{
+    font-family: Arial;
+    font-size: 16;
+}
